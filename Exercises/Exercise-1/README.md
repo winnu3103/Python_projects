@@ -9,7 +9,7 @@ You will have to unzip the files with Python as well.
 #### Setup
 1. Change directories at the command line 
    to be inside the `Exercise-1` folder `cd Exercises/Exercise-1`
-   
+    
 2. Run `docker build --tag=exercise-1 .` to build the `Docker` image.
 
 3. There is a file called `main.py` in the `Exercise-1` directory, this

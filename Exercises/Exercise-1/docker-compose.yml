@@ -5,7 +5,7 @@ services:
     volumes:
       - .:/app
     command: python3 -m pytest
-  run:
+  run: 
     image: "exercise-1"
     volumes:
       - .:/app
